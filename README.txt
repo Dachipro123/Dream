@@ -3,6 +3,22 @@ This mod adds A LOT OF things so here goes the tutorial, if you don't want spoil
 SPOILERS::
 Tutorial not coming soon...
 
+
+
+
+DO NOT MIND THIS IT WILL BE REMOVED IN A LATER STATE OF THE MOD
+
+
+
+
+
+
+
+
+
+
+
+
 {
   "type": "dream:dream_type",
   "generator": {
