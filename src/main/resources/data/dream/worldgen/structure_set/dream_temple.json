@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "dream:dream_temple",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 179971635,
+    "spacing": 20,
+    "separation":3,
+    "type": "minecraft:random_spread"
+  }
+}

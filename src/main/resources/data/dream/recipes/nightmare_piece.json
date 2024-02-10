@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dream:nightmare_complect"
+    }
+  ],
+  "result": {
+    "item": "dream:nightmare_piece"
+  }
+}

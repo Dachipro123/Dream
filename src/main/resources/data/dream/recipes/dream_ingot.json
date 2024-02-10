@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dream:dream_block"
+    }
+  ],
+  "result": {
+    "item": "dream:dream_ingot"
+  }
+}

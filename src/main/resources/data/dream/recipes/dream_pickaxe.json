@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dream:dream_ingot",
+      "item": "minecraft:netherite_pickaxe"
+
+    }
+  ],
+  "result": {
+    "item": "dream:dream_pickaxe"
+  }
+}

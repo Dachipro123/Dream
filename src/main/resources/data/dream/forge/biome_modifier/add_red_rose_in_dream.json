@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "dream:dream_biome",
+  "features": "dream:red_rose_placed",
+  "step": "vegetal_decoration"
+}

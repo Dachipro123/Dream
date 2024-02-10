@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "dream:dream_ore",
+    "dream:dream_block",
+    "dream:nightmare_block",
+    "dream:endstone_dream_ore",
+    "dream:netherrack_dream_ore",
+    "dream:red_rose",
+    "dream:deepslate_dream_ore"
+  ]
+}

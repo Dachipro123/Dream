@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "dream:block/nightmare_boss_spawn_block"
+  }
+}

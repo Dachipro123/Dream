@@ -1,0 +1,7 @@
+// 1.19	2023-02-25T11:27:22.4899227	LootTables
+f3f15f9f98ee18d614d7000f1fbf6b95874e1c98 data/dream/loot_tables/blocks/deepslate_dream_ore.json
+a341dc9a17b2952998ba2e6aa1e1b5263399323f data/dream/loot_tables/blocks/dream_block.json
+66d449e678dd06f144477ff118a54f132057501e data/dream/loot_tables/blocks/dream_ore.json
+228e368f16648268ac4b7989dc95a99a90e17eac data/dream/loot_tables/blocks/endstone_dream_ore.json
+0fb7d24fa900dfe7576767bf43c5b50deb9be928 data/dream/loot_tables/blocks/netherrack_dream_ore.json
+fe056d5f79a9f8c3f5366608577f56979ea0eba1 data/dream/loot_tables/chests/custom_chest_loot.json

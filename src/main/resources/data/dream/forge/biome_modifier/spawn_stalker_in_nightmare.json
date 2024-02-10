@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "dream:nightmare_biome"
+  ],
+  "spawners": {
+    "type": "dream:stalker",
+    "weight": 100,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

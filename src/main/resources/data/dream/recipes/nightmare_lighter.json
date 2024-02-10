@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "C": {
+      "item": "dream:nightmare_block"
+    },
+    "X": {
+      "item": "dream:dream_lighter"
+    }
+  },
+  "pattern": [
+    "CCC",
+    "CXC",
+    "CCC"
+  ],
+  "result": {
+    "item": "dream:nightmare_lighter"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "dream:block/dream_forger"
+    },
+    "facing=south": {
+      "model": "dream:block/dream_forger",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dream:block/dream_forger",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "dream:block/dream_forger",
+      "y": 90
+    }
+  }
+}

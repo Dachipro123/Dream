@@ -1,0 +1,109 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.nightmare_blaze.idle": {
+			"loop": true,
+			"animation_length": 1.5,
+			"bones": {
+				"tenicles": {
+					"position": {
+						"0.0": {
+							"vector": [0, -0.25, 0]
+						},
+						"0.5": {
+							"vector": [0, 0, 0]
+						},
+						"0.875": {
+							"vector": [0, 0.25, 0]
+						},
+						"1.25": {
+							"vector": [0, 0, 0]
+						}
+					}
+				}
+			}
+		},
+		"animation.nightmare_blaze.fly": {
+			"animation_length": 1.54167,
+			"bones": {
+				"tenicles": {
+					"position": {
+						"0.0": {
+							"vector": [-0.25, 0, 0]
+						},
+						"0.5": {
+							"vector": [-0.5, 0, 0]
+						},
+						"1.0": {
+							"vector": [-1, 0, 0]
+						}
+					}
+				},
+				"bone": {
+					"position": {
+						"0.0833": {
+							"vector": [-0.25, 0, 0]
+						},
+						"1.25": {
+							"vector": [-1.25, 0, 0]
+						}
+					}
+				},
+				"bone2": {
+					"position": {
+						"0.0833": {
+							"vector": [-0.25, 0, 0]
+						},
+						"1.25": {
+							"vector": [-1.25, 0, 0]
+						}
+					}
+				}
+			}
+		},
+		"animation.nightmare_blaze.attack": {
+			"animation_length": 2.04167,
+			"bones": {
+				"bone": {
+					"position": {
+						"0.0": {
+							"vector": [-0.25, 0, 0]
+						},
+						"0.5833": {
+							"vector": [-2.25, 0, 0]
+						},
+						"0.9167": {
+							"vector": [-0.25, 0, 0]
+						},
+						"1.2083": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"bone2": {
+					"position": {
+						"0.0": {
+							"vector": [-1, 0, 0]
+						},
+						"0.5": {
+							"vector": [-3, 0, 0]
+						},
+						"0.875": {
+							"vector": [-6, 0, 0]
+						},
+						"1.2083": {
+							"vector": [-9, 0, 0]
+						},
+						"1.6667": {
+							"vector": [-38, 0, 0]
+						},
+						"1.875": {
+							"vector": [-255, 0, 0]
+						}
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "dream:nightmare_bastion",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 1642139474,
+    "spacing": 20,
+    "separation":3,
+    "type": "minecraft:random_spread"
+  }
+}

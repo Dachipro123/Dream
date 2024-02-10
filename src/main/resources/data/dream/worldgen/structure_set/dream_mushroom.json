@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "dream:dream_mushroom",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 179971635,
+    "spacing": 3,
+    "separation":1,
+    "type": "minecraft:random_spread"
+  }
+}

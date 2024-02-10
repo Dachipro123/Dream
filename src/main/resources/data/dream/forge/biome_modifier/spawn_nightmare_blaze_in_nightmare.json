@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "dream:nightmare_biome"
+  ],
+  "spawners": {
+    "type": "dream:nightmare_blaze",
+    "weight": 150,
+    "minCount": 7,
+    "maxCount": 10
+  }
+}

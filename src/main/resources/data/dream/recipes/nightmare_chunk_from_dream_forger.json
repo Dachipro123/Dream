@@ -1,0 +1,15 @@
+{
+  "type": "dream:dream_forger",
+  "ingredients": [
+    {
+      "item": "dream:nightmare_piece"
+    }
+  ],
+  "fluid": {
+    "FluidName": "dream:dreamy_water_fluid",
+    "Amount": 250
+  },
+  "output": {
+    "item": "dream:nightmare_chunk"
+  }
+}

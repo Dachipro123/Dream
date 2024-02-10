@@ -1,0 +1,11 @@
+// 1.19	2023-02-25T11:27:22.4919173	Block States: dream
+40f80dfb0f762a531e76f6e39a937b474f6149e6 assets/dream/blockstates/deepslate_dream_ore.json
+277b2886fb770015ec8931340dc7d9f48022549c assets/dream/blockstates/dream_block.json
+a5cae8a3abffcdf65d87928bb511a455e86bc73c assets/dream/blockstates/dream_ore.json
+06023dc6fd05d42d0b6a60b11bad5232eff026bb assets/dream/blockstates/endstone_dream_ore.json
+8c2dfac099194f4f41c498872c77dcf5f97ba409 assets/dream/blockstates/netherrack_dream_ore.json
+a7c23ad30b65cb119cabd0b9d39c8f1fd80da77c assets/dream/models/block/deepslate_dream_ore.json
+65e6be0065f37491a2c3d3866cbb5417e1a38e18 assets/dream/models/block/dream_block.json
+f7bd1cba5454caa4579c8c0a00f1d8dc528de1f0 assets/dream/models/block/dream_ore.json
+bc29d5520ad8ead9354b745db023ade9368075be assets/dream/models/block/endstone_dream_ore.json
+db01b48f9a120b86e3031b74812bde6f3ce3519a assets/dream/models/block/netherrack_dream_ore.json

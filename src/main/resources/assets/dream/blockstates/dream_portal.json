@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "axis=z": { "model": "dream:block/dream_portal_ew" },
+    "axis=x": { "model": "dream:block/dream_portal_ns" }
+  }
+}

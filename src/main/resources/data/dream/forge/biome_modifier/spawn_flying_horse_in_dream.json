@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "dream:dream_biome"
+  ],
+  "spawners": {
+    "type": "dream:flying_horse",
+    "weight": 150,
+    "minCount": 2,
+    "maxCount": 5
+  }
+}
